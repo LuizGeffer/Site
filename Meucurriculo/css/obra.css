@@ -1,0 +1,52 @@
+.obra{
+    padding: 0px 180px 80px 180px;
+}
+
+.obra img{
+    display: block;
+    
+   
+    width: 200px;
+}
+
+.obra h1{
+    color: black;
+    font-weight: normal;
+   
+
+    
+}
+.obra h2{
+    color: black;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: normal;
+    margin-top: 40px;
+   
+   
+}
+
+header {
+    max-width: 960px;
+    margin: auto;
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    min-height: 70px;
+    background-color: black;
+}
+footer {
+    max-width: 960px;
+    margin: auto;
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: f5f5f5;
+    color: grey;
+
+}
+
+footer p {
+    line-height: 35px;
+}
+
